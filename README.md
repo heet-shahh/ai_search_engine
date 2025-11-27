@@ -77,7 +77,7 @@ We developed a **Multimodal AI Search Engine** on Azure that:
 - Streamlined onboarding process
 - Efficient customization requirement matching
 
-## Evaluation Metrics
+## 📊 Evaluation Metrics
 
 - **35% increase** in Recall@10 metrics & **15% increase** in NDCG@10 (ranking quality) by choosing CLIP-based fashion embedding models after benchmarking multiple candidates.
 - Reduced vector search time from 5.7s -> 3s
