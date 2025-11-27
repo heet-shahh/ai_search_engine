@@ -1,4 +1,4 @@
-# AI Fashion Search Engine (Lookr.fyi)
+# AI Fashion Search Engine
 
 [![Azure Cloud](https://img.shields.io/badge/Cloud-Azure-0089D6?logo=microsoft-azure&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)]()
